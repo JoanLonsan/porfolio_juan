@@ -18,12 +18,12 @@ def main():
         ],
         " Análisis Deportivo": [
             st.Page("pages/01_sport_analisis.py",
-                    title="01. Predicción Altura de Salto",
+                    title="01. Altura de Salto",
                     icon="⛹🏽‍♂️"),
         ],
         "Proyecto 2": [
-            st.Page("pages/02_ml.py",
-                    title="Presentación_02",
+            st.Page("pages/02_api_waqi.py",
+                    title="02. Calidad del Aire",
                     icon="👾"),
         ],
         "Proyecto 3": [
