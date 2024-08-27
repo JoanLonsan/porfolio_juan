@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("¡Bienvenido!")
 
-tab1, tab2 = st.tabs(["🙎🏼Sobre mi", "📚Mis Proyectos"])
+tab1, tab2 = st.tabs(["🙎🏼Quién soy", "📚Mis Proyectos"])
 
 with tab1:
     col1, col2 = st.columns([1, 6])
