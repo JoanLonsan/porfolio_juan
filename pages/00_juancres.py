@@ -18,8 +18,8 @@ with tab1:
 
                 ¡Conectemos para explorar cómo puedo contribuir a tu equipo o proyecto!
                                 
-                    - [Juan Crescenti en LinkedIn](https://www.linkedin.com/in/juancrescenti/)
-                    - [Juan Crescenti en Github](https://github.com/JoanLonsan?tab=repositories)
+                - [Juan Crescenti en LinkedIn](https://www.linkedin.com/in/juancrescenti/)
+                - [Juan Crescenti en Github](https://github.com/JoanLonsan?tab=repositories)
     """)
 
 with tab2:
